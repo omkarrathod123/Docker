@@ -1,0 +1,8 @@
+docker start	    Start container
+docker stop	        Stop container
+docker restart	    Restart container
+dcoker pause	    Pause container
+docker unpause	    Unpause container
+docker wait	        Wait container
+docker kill	        Kill container
+docker attach	    Attach container /Access of container
