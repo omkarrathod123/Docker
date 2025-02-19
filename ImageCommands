@@ -1,0 +1,3 @@
+docker images ls	                                   show all imgaes
+docker rmi  <image>                                    Remove image
+docker rmi $(sudo docker images -q)       	           remove all images
