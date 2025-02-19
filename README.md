@@ -1,7 +1,7 @@
 # Docker
-This Repository is for sample code
+This Repository is for sample code. All file must run in different folder.
 
-Docker Components:-- 
+**Docker Components**:-- 
 1.> FROM :- base OS
 2.> RUN :- Execute shell Commands at time of build
 3.> MAINTAINER :- Owner
