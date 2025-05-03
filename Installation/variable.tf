@@ -1,7 +1,12 @@
 variable "region" {
-  default = "ap-south-sh"
+  default = "ap-south-1"
   type = string
 }
 variable "instance_type" {
-  type = "t2.micro"
+  type = string
+  default = "t2.micro"
+}
+variable "ami" {
+  type = string
+  default = "ami-06b6e5225d1db5f46"
 }
